@@ -1,6 +1,6 @@
 {
   "name": "lenslight_huso",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lenslight proje",
   "main": "app.js",
   "type": "module",
