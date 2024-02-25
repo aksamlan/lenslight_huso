@@ -1,6 +1,6 @@
 {
   "name": "lenslight_hu",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "lenslight proje",
   "main": "app.js",
   "type": "module",
