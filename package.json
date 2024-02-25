@@ -1,5 +1,5 @@
 {
-  "name": "lenslight_huso",
+  "name": "lenslight_hu",
   "version": "1.0.3",
   "description": "lenslight proje",
   "main": "app.js",
@@ -17,6 +17,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aksamlan/lenslight_huso"
+    "url": "https://github.com/aksamlan/lenslight_huso.git"
   }
 }
